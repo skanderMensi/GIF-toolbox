@@ -1,5 +1,5 @@
 # GIF-toolbox
-toolbox used to estimate the parameters and simulate the Generalized-Integrate-and-Fire (GIF) model as described in: "Automated High-Throughput Characterization of Single Neurons by Means of Simplified Spiking Models"
+Toolbox to estimate the parameters and simulate the Generalized-Integrate-and-Fire (GIF) model as described in: "Automated High-Throughput Characterization of Single Neurons by Means of Simplified Spiking Models"
 
 For details, see:
 "Automated High-Throughput Characterization of Single Neurons by Means of Simplified Spiking Models"
