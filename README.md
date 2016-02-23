@@ -5,7 +5,6 @@ For details, see:
 "Automated High-Throughput Characterization of Single Neurons by Means of Simplified Spiking Models"
 Christian Pozzorini, Skander Mensi, Olivier Hagens, Richard Naud, Christof Koch, Wulfram Gerstner
 PLOS CB, 2015
-DOI: 10.1371/journal.pcbi.1004275
 
 6 files:
 
